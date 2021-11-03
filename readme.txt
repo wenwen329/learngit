@@ -1,2 +1,1 @@
-aaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbb
+Git is a version control system.
